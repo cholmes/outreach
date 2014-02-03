@@ -15,13 +15,25 @@ account will login to username.org-name.cartodb.com, and org-name can be your ex
 
 Once you are notified that the new functionality has been enabled you should login to your account and you should see a new option under your user name dropdown.
 
-![organization users](https://www.evernote.com/shard/s209/sh/82097910-dc83-423a-9eaf-7fb2fe0b56c0/5bf593fb5aadc923b64e39e9dfa216f8/deep/0/widget-org---CartoDB.png)
+![organization users](https://f.cloud.github.com/assets/407017/2070714/369fd400-8d1f-11e3-9b47-89dcb74bece2.png)
 
 Click on the **Organization users** option and you'll be taken to your organization dashboard.
 
-![organization dashboard(https://www.evernote.com/shard/s209/sh/6f95ec7c-109d-4357-b181-6c19c554458c/ee52039a35f33d7017d588a99a896dc8/deep/0/Your-organization---CartoDB.png)
+![organization dashboard](https://f.cloud.github.com/assets/407017/2070679/d64c84cc-8d1e-11e3-8c45-5caac4a35003.png)
 
-### Creating a new user
+### User Management
+
+You should see your user listed. If you click on this user you get the user details page:
+
+~[user details](https://f.cloud.github.com/assets/407017/2070747/b6fbffa2-8d1f-11e3-8dca-af320594e676.png)
+
+This gives an overview of the user. You can see how many tables and visualizations they've made, how many map views
+and geocodes they've used, and how recently they accessed. This user is a special user, as it is the administrator. 
+Often right after upgrade the administrator will have a disproportionate amount of space, so you may want to lower the
+quota of the administrator user.
+
+### Adding a New User
+
 
 
 
