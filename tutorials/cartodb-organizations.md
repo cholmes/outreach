@@ -64,7 +64,9 @@ their browser:
 
 (this will look different in firefox or safari, but will be the same general message)
 
-Just go past the error, give the exception to the browser - we'll get it fixed up soon. Note also that currently
+**This will be fixed as soon as we can**
+
+But for now, just go past the error, give the exception to the browser - we'll get it fixed up soon. Note also that currently
 organization users have to login at that location, we don't yet allow them to login to the main CartoDB signin. So
 if your users are having trouble logging in make sure they are going to their proper entry point.
 
